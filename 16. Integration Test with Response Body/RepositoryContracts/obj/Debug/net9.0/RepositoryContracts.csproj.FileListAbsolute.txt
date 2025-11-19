@@ -1,0 +1,80 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\Reposito.28D4BA81.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\refint\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\RepositoryContracts\obj\Debug\net9.0\ref\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\Reposito.28D4BA81.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\refint\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\RepositoryContracts\obj\Debug\net9.0\ref\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\Reposito.28D4BA81.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\refint\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\10. Mock Repository - Part 1\RepositoryContracts\obj\Debug\net9.0\ref\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\Reposito.28D4BA81.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\refint\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\11. Mock Repository - Part 2\RepositoryContracts\obj\Debug\net9.0\ref\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\Reposito.28D4BA81.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\refint\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net9.0\ref\RepositoryContracts.dll

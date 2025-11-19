@@ -1,0 +1,668 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\08. Get Country by Country ID - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\10. Add Person - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\11. Add Person - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\12. Add Person - Validation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\14. Get Person By Person ID - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\17. TestOutputHelper\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\18. Get Filtered Persons - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\19. Get Filtered Persons - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\20. Get Sorted Persons - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\21. Get Sorted Persons - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\23. Update Person - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\24. Update Person - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\25. Delete Person - xUnit Test\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\26. Delete Person - Implementation\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\02. Mock Data\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\03. List View\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\04. Search in List View\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\05. Sort in List View\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\06. Create View\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\14. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\15. Tag Helpers\01. Form Tag Helpers\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\04. Migrations\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\06. EF Stored Proc\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\07. EF Stored Proc with Parameters\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\08. Changes in Table Structure\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\09. Fluent API - Part 1\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\11. Table Relations with EF\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\16. Entity Framework Core\15. Generate PDF Files\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\01. Mock DbContext\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\02. AutoFixture - Part 1\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\03. AutoFixture - Part 2\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\Services\obj\Debug\net9.0\ref\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\RepositoryContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\08. Invoke Repository in Service - Part 1\Services\obj\Debug\net9.0\ref\Services.dll

@@ -1,0 +1,10 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\CRUDExample\wwwroot\jquery.validate.min.js
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\CRUDExample\wwwroot\jquery.validate.unobtrusive.min.js
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\CRUDExample\wwwroot\StyleSheet.css
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\CRUDExample\wwwroot\jquery.min.js
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\StyleSheet.css
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\logo.png

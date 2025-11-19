@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\curdtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\curdtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\07. repository implementation - part 2\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonsRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IPersonsRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IPersonsRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:24:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\Repositories\\PersonsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\Repositories\\PersonsRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonsRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAABCwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:24:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\Repositories\\CountriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CountriesRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\Repositories\\CountriesRepository.cs",
+              "RelativeToolTip": "Repositories\\CountriesRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA1wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:19:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICountriesRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\ICountriesRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\ICountriesRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:12:12.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\CURDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CURDTests\\PersonsServiceTest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\CURDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CURDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAOICAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:36:56.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABiwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:24:30.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\CURDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CURDTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\07. Repository Implementation - Part 2\\CURDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CURDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:23:55.46Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\CRUDExample\wwwroot\jquery.validate.min.js
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\CRUDExample\wwwroot\jquery.validate.unobtrusive.min.js
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\CRUDExample\wwwroot\StyleSheet.css
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\17. xUnit Advanced - Moq and Repository\04. Fluent Assertions\CRUDExample\wwwroot\jquery.min.js
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\StyleSheet.css
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\logo.png

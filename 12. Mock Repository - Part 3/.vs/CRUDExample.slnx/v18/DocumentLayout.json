@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Migrations\\20251116003838_update_final003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20251116003838_update_final003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\curdtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\curdtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A910161-6614-4BB1-95F2-FE29A2C8B93A}|Services\\Services.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A910161-6614-4BB1-95F2-FE29A2C8B93A}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A910161-6614-4BB1-95F2-FE29A2C8B93A}|Services\\Services.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A910161-6614-4BB1-95F2-FE29A2C8B93A}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\dtos\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dtos\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\dtos\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dtos\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\dtos\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dtos\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\dtos\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dtos\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\servicecontracts\\dtos\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836534E-6A44-4501-94B5-D4BFF7B97630}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dtos\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9FCB0-930E-499B-A4EC-E05A9CBD6007}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EAA18-C4CF-49AB-A2CE-1613E369BF2C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\curdtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\curdtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379FA9BA-D715-8B87-7E2E-446D29267C11}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\curdtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298A1823-6320-4D66-8963-F8E87A0C2AB5}|CURDTests\\CURDTests.csproj|solutionrelative:curdtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|d:\\github repos\\dotnet(deep-dive)\\aspnetcore mastery\\17. xunit advanced - moq and repository\\12. mock repository - part 3\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A909A-C2D4-47FD-965C-D1BD06B6999F}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251116003838_update_final003.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Migrations\\20251116003838_update_final003.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20251116003838_update_final003.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Migrations\\20251116003838_update_final003.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20251116003838_update_final003.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:38:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\appsettings.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T00:37:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPersonsService.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\IPersonsService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonsService.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\IPersonsService.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:29:40.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:31:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Services\\PersonsService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAIwMYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:35:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonsControllerIntegrationTest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "CURDTests\\PersonsControllerIntegrationTest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeToolTip": "CURDTests\\PersonsControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:20:18.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonsRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Repositories\\PersonsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Repositories\\PersonsRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonsRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:24:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonUpdateRequest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\PersonUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTOs\\PersonUpdateRequest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\PersonUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTOs\\PersonUpdateRequest.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:30:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:30:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonsControllerTest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\PersonsControllerTest.cs",
+              "RelativeDocumentMoniker": "CURDTests\\PersonsControllerTest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\PersonsControllerTest.cs",
+              "RelativeToolTip": "CURDTests\\PersonsControllerTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:23:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAANsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:38:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTOs\\PersonResponse.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTOs\\PersonResponse.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:29:59.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTOs\\PersonAddRequest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\PersonAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTOs\\PersonAddRequest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA7wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:29:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTOs\\CountryResponse.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\CountryResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTOs\\CountryResponse.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:29:29.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTOs\\CountryAddRequest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\ServiceContracts\\DTOs\\CountryAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTOs\\CountryAddRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:29:18.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAywCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:27:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:27:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountriesRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Repositories\\CountriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CountriesRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Repositories\\CountriesRepository.cs",
+              "RelativeToolTip": "Repositories\\CountriesRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:19:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICountriesRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\ICountriesRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\ICountriesRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:12:12.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPersonsRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IPersonsRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IPersonsRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:24:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "CURDTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "CURDTests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:06:17.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CRUDExample",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\CRUDExample.csproj",
+              "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\CRUDExample.csproj",
+              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T00:12:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:01:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CURDTests\\PersonsServiceTest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CURDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAIwGwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:36:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABrwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:24:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CURDTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\12. Mock Repository - Part 3\\CURDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CURDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAYwAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:23:55.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

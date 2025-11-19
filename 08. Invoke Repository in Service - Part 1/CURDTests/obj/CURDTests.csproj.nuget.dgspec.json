@@ -1,0 +1,407 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\CURDTests\\CURDTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\CURDTests\\CURDTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\CURDTests\\CURDTests.csproj",
+        "projectName": "CURDTests",
+        "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\CURDTests\\CURDTests.csproj",
+        "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\CURDTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFAQE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj"
+              },
+              "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Services\\Services.csproj": {
+                "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "EntityFrameworkCoreMock.Moq": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFAQE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\RepositoryContracts\\RepositoryContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectName": "RepositoryContracts",
+        "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\RepositoryContracts\\RepositoryContracts.csproj",
+        "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\RepositoryContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFAQE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj",
+        "projectName": "ServiceContracts",
+        "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj",
+        "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFAQE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFAQE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\RepositoryContracts\\RepositoryContracts.csproj"
+              },
+              "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\Github Repos\\DotNET(Deep-Dive)\\AspNetCore Mastery\\17. xUnit Advanced - Moq and Repository\\08. Invoke Repository in Service - Part 1\\ServiceContracts\\ServiceContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
